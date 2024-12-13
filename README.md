@@ -1,3 +1,7 @@
-# Spearhead Gaming
+---
+icon: steam-symbol
+---
 
-![](.gitbook/assets/spearheadnew\_v1-1.png)Spearhead Gaming is a&#x20;
+# Spearhead Gaming Community
+
+![](.gitbook/assets/spearheadnew_v1-1.png)Spearhead Gaming is a&#x20;
