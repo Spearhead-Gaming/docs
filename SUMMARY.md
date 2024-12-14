@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🚀 About](README.md)
-  * [📖 Spearhead Gaming SOP's](about/spearhead-gaming-sops.md)
+  * [📖 Spearhead MilSim SOP's](about/spearhead-milsim-sops.md)
 
 ## Group 1
 
