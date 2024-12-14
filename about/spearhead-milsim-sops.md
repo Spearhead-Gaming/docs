@@ -2,7 +2,7 @@
 description: 'Updated: 24 November 2023'
 ---
 
-# 📖 Spearhead Gaming SOP's
+# 📖 Spearhead MilSim SOP's
 
 1. When we operate out of an Airbase no personnel outside of Aviation are allowed to cross the active runway on foot or in ground vehicles.  All traffic will remain on the proper roads and taxiways
 2. Minimum of (4) Personnel are required to leave the wire to conduct operations against the enemy (exceptions are outlined below).
@@ -88,3 +88,5 @@ description: 'Updated: 24 November 2023'
 19. Any abuse of the base medical system will result in a 1-day ban. If multiple infractions from the same user are witnessed then the users ban will be increased appropriately. Such abuse includes, but is not limited to:
     1. Moving its position from a medical tent
     2. Building them outside of the main base or approved bases
+
+Original Spearhead Document <img src="../.gitbook/assets/gDocs (1).png" alt="" data-size="line">[**Spearhead Gaming Mil-Sim SOP**](https://docs.google.com/document/d/e/2PACX-1vTfjp833a0aCJx-Fb-O3uliNYvAwS-t-lvR3aYg_RFDK5RDS8LaTrYck0ugAClY5tZC_7x5gjlREvQf/pub)
