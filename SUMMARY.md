@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Spearhead Gaming Community](README.md)
-  * [📖 Spearhead Gaming Standard Operating Procedures](spearhead-gaming-community/spearhead-gaming-standard-operating-procedures.md)
+* [🚀 About](README.md)
+  * [📖 Spearhead Gaming SOP's](about/spearhead-gaming-sops.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
