@@ -1,9 +1,5 @@
 # 🚀 About
 
-{% hint style="info" %}
-This unit functions and operates within the [SpearHead Gaming](https://discord.gg/spearhead-gaming) Mil-Sim Community.
-{% endhint %}
-
 <figure><img src=".gitbook/assets/3ID-Patch.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Traditional Infantry focused on combat in Open Terrain and Urban Environments. Utilizing traditional warfare tactics and focused on operations inside of Urban Environments. Will conduct Convoy, Anti-Armor. Anti-Air, Ambush, and MOUT/Cordon and Search Operations. Will conduct as a stand-alone target and objective execution force that will crossover and support the light infantry and other units as needed. Will provide combined arms support via Anvil (heavy armor) and Badger (light armor), as well as fires support via Steel Rain. Also provides Logistical support for re-arm, re-fuel, and repairs in the field.
