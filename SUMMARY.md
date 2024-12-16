@@ -1,4 +1,8 @@
 # Table of contents
 
 * [🚀 About](README.md)
-  * [📘 3rd Infantry Division SOP's](about/3rd-infantry-division-sops.md)
+  * [📖 Spearhead MilSim SOP's](about/spearhead-milsim-sops.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
