@@ -1,35 +1,20 @@
----
-cover: .gitbook/assets/cover-3.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🚀 About
 
-Paragraph of what Spearhead Mil-Sim is all about. HERE
+{% hint style="info" %}
+This unit functions and operates within the [SpearHead Gaming](https://discord.gg/spearhead-gaming) Mil-Sim Community.
+{% endhint %}
 
-***
+<figure><img src=".gitbook/assets/3ID-Patch.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Spearhead HQ</td><td></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/Ao4VfgHnr7pWIGbZqCtF/">Spearhead Command</a></td></tr><tr><td align="center">3rd Infantry Division (Reaper)</td><td></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/IXubIfmz7y4e6SI75Ova/">3rd Infantry Division (Reaper)</a></td></tr><tr><td align="center">75th Ranger Reg (Misfit)</td><td><a href=".gitbook/assets/Misfit.png">Misfit.png</a></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/0MnmXyOPm0Y6PmCwRrq2/">75th Ranger Regiment (Misfit)</a></td></tr><tr><td align="center">Detachment-7 (Viking)</td><td></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/LkyfTlw53TqPFCKn0jSg/">Detachment-7 (Viking)</a></td></tr><tr><td align="center">1st Air Cavalry Brigade (Gambler)</td><td></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/Pr0ZPzReiOs3xrrvMVlA/">1st Air Cavalry Brigade (Gambler)</a></td></tr><tr><td align="center">Tactical Air Control Party (Dragon)</td><td></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/Tp20LdzdPjDX7uO0If22/">Tactical Air Control Party (Dragon)</a></td></tr><tr><td align="center">Spearhead S3 (Spearhead3)</td><td></td><td><a href="https://app.gitbook.com/o/UHYNUTADKJpvEtsVhCer/s/6HOPEnn0KKfye2encrKd/">Spearhead S3</a></td></tr><tr><td align="center">Spearhead School of Infantry (Coming Soon)</td><td></td><td></td></tr></tbody></table>
+Traditional Infantry focused on combat in Open Terrain and Urban Environments. Utilizing traditional warfare tactics and focused on operations inside of Urban Environments. Will conduct Convoy, Anti-Armor. Anti-Air, Ambush, and MOUT/Cordon and Search Operations. Will conduct as a stand-alone target and objective execution force that will crossover and support the light infantry and other units as needed. Will provide combined arms support via Anvil (heavy armor) and Badger (light armor), as well as fires support via Steel Rain. Also provides Logistical support for re-arm, re-fuel, and repairs in the field.
 
+**"Rock of the Marne"**
 
+## Leadership
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Reaper CO</td><td>Marcus</td><td>Discord: </td></tr><tr><td>Reaper XO</td><td></td><td>Discord: </td></tr></tbody></table>
 
+### Squad Leaders
 
-
-
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
